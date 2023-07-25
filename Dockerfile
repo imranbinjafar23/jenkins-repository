@@ -1,2 +1,2 @@
 FROM nginx:latest
-EXPOSE 80 443 3902
+EXPOSE 80 443
